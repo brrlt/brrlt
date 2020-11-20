@@ -1,4 +1,7 @@
-### Hi there 👋
+# Bonjour !
+
+## Barrault Victor étudiant en mathématiques & informatique à l'université de Paris (Diderot)
+
 
 <!--
 **brrlt/brrlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
